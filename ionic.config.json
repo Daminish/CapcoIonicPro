@@ -1,6 +1,6 @@
 {
   "name": "capcoionicpro",
-  "app_id": "82d74911",
+  "app_id": "",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
